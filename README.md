@@ -68,5 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # NetflixClone
-# NetflixClone
+Clone of the Netflix interface, for the purpose of studying ReactJS with Professor Bonieky, from the B7Web platform. http://alunos.b7web.com.br/
+
