@@ -54,10 +54,5 @@ Consulte o arquivo LICENSE.md, para maiores detalhes.
 ## ✒️ Autores
 Aplicação feita por mim - [Lucbm99](https://github.com/Lucbm99)
 
-
-## 🎁 Agradecimentos
-Aplicação feita para estudos, que aprendi muito bem. Obrigado a todos e a Deus pela oportunidade!
-
-
 ---
 ⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
