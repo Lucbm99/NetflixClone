@@ -38,7 +38,7 @@ Npm: https://www.npmjs.com/
 
 Links úteis: 
 
-VS Code: https://code.visualstudio.com/
+VS Code: https://code.visualstudio.com
 
 Git: https://git-scm.com/
 
